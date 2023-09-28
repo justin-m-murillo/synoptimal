@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5cc2fc3a-ca11-4403-90f6-500d44315ac5"
+      }
+    },
+    "owner": "murillojustin"
   }
 }
